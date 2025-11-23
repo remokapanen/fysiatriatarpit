@@ -2,7 +2,7 @@ fysiatria
 section
 luento-3-alaraajasairaudet
 mikä-kuvantamistutkimus-trokanterbursiitissa
-mikä-liikelaajuus-rajoituu-herkimmin-lonkan-nivelrikossa
+mikä-liikelaajuus-rajoittuu-herkimmin-lonkan-nivelrikossa
 Niskakipu-ja-ylaraajan-sairaudet
 whiplash-vamman-hoidon-periaatteet
 epikondyliitin-hoito
