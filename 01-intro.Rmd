@@ -696,6 +696,7 @@ Kuntoutuksen muotoja ovat:
 Kuka sitten maksaa? Kannattaa muistaa, että ensisijainen vastuu ammatillisesta kuntoutuksesta on tapaturmavakuutuksella, sen jälkeen tulee työeläkelaitoksen vuoro ja vasta sen jälkeen Kelan. 
 
 ![](images/ammatillinenkuntoutusmaksajat.png)
+
 ### Kenen vastuulla on kuntoutussuunnitelman laatiminen?
 
 - a. Kelan

@@ -41,3 +41,4 @@ työikäisen-ihmisen-kuntoutuksen-tavoite
 kelan-lääkinnällinen-kuntoutus
 lääkkeellisen-kuntoutuksen-aiheellisuus
 milloin-ammatilliselle-kuntoutukselle-löytyy-luultavimmin-maksaja
+kenen-vastuulla-on-kuntoutussuunnitelman-laatiminen
