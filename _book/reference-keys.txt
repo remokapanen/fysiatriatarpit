@@ -13,6 +13,7 @@ crpsn-oireet
 crpsn-diagnostiset-kriteerit
 crpsn-ennuste
 crpsn-hoitoperiaate
+mitkä-ovat-crpsssä-ilmenevät-tuntomuutokset
 määrittele-toimintakyky
 miten-toimintakykyä-arvioidaan
 mitä-suoritustaso-tarkoittaa
@@ -31,6 +32,7 @@ miten-tulee-suhtautua-scheuermannin-taudin-löydöksiin-röntgenissä
 spinaali-ja-verisuoniperäisen-katkokävelyn-ero
 milloin-enmg-iskiaskipuiselle
 välilevyrappeuman-seurantaperiaate
+kumpi-spondylolisteesin-muodoista-aiheuttaa-herkemmin-selkäydinkanavan-ahtauman
 luento-8-kuntoutus
 kuntoutuksen-sijainti-hoitoketjussa
 kuntoutuksen-peruste

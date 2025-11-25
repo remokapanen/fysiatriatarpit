@@ -209,10 +209,10 @@ Ennuste vaihtelee suuresti. Yleisesti kuitenkin voi sanoa, että **ennuste on hy
   
 ### CRPS:n hoitoperiaate
 
-a. Nopeasti invalidisoiva tila, joka yleensä vaatii kiireellisen lähetteen kipuklinikalle tai fysiatrian poliklinikalle moniammatillista arviota ja hoitoa varten
-b. Parantuu itsestään 1-3 kuukaudessa
-c. Ei-hermoperäinen CRPS liittyy somatisaatiohäiriöön ja tulee tehdä lähete psykiatrille, jos oireet eivät helpota 3kk sisällä
-d. Pistetään kortisonipistokset kipeisiin paikkoihin ja vain tarpeen mukaan oraalisia kipulääkkeitä
+- a. Nopeasti invalidisoiva tila, joka yleensä vaatii kiireellisen lähetteen kipuklinikalle tai fysiatrian poliklinikalle moniammatillista arviota ja hoitoa varten
+- b. Parantuu itsestään 1-3 kuukaudessa
+- c. Ei-hermoperäinen CRPS liittyy somatisaatiohäiriöön ja tulee tehdä lähete psykiatrille, jos oireet eivät helpota 3kk sisällä
+- d. Pistetään kortisonipistokset kipeisiin paikkoihin ja vain tarpeen mukaan oraalisia kipulääkkeitä
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -222,6 +222,27 @@ d. Pistetään kortisonipistokset kipeisiin paikkoihin ja vain tarpeen mukaan or
       a
 
 Käyty juuri yllä läpi. 
+  </div>
+</div>
+
+### Mitkä ovat CRPS:ssä ilmenevät tuntomuutokset
+
+- a. värinätunto
+- b. syvätunto
+- c. hyperalgesia ja allodynia
+- d. hypoalgesia
+
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c
+
+Hyperalgesia tarkoittaa tilaa, jossa stimulus, joka yleensäkin aiheuttaa kipua, aiheuttaa nyt vielä suurempaa kipua. Eroaa allodyniasta  = aikaisemmin kivuton stimulus aiheuttaa nyt kipua (esim. suihku auringossa palamisen jälkeen)
+
+Muut vaihtoehdot kuvailevat hypoestesiaa eli tunnon heikentymistä, joka ei ole CRPS:lle tyypillinen piirre. 
   </div>
 </div>
 
@@ -522,6 +543,30 @@ Molemmat voivat siis aiheuttaa katkokävelyoiretta ja on äärimmäisen tärkeä
   </div>
 </div>
 
+### Kumpi spondylolisteesin muodoista aiheuttaa herkemmin selkäydinkanavan ahtauman?
+
+
+- a. Spondylolyyttinen
+- b. Degeneratiivinen
+- c. Ei kumpikaan
+- d. Molemmat yhtä paljon
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      b
+
+Degeneratiivinen nikamansiirtymä (spondylolisteesi) on yleinen radiologinen löydös, joka liittyy ikääntymiseen. Johtuu fasettinivelien ja välilevyjen rappeutumisesta, joka johtaa koko nikaman siirtymiseen eteenpäin. Tämä voi ahtauttaa selkäydinkanavaa. 
+
+Spondylolyyttisessä spondylolisteesissä takakaari on poikki, jonka seurauksena nikaman solmu siirtyy eteenpäin ja takakaari pysyy paikalla. Tämä voi aiheuttaa hermojuurikanavien ahtautta, mutta selkäydinkanava jopa avautuu.
+
+![](images/degvsspo.png)
+  </div>
+</div>
+
+
 ## Luento 8: Kuntoutus 
 
 ### Kuntoutuksen sijainti hoitoketjussa
@@ -651,3 +696,19 @@ Kuntoutuksen muotoja ovat:
 Kuka sitten maksaa? Kannattaa muistaa, että ensisijainen vastuu ammatillisesta kuntoutuksesta on tapaturmavakuutuksella, sen jälkeen tulee työeläkelaitoksen vuoro ja vasta sen jälkeen Kelan. 
 
 ![](images/ammatillinenkuntoutusmaksajat.png)
+### Kenen vastuulla on kuntoutussuunnitelman laatiminen?
+
+- a. Kelan
+- b. ESH
+- c. Hoitavan lääkärin
+- d. Kunnan
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+      c
+  </div>
+</div>
+
